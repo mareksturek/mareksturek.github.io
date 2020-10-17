@@ -6,3 +6,6 @@
 
   - Programming Basics
   - Financial Analysis
+  - Machine Learning
+  - Deep Learning
+  - Real Application
