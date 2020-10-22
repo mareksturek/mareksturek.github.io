@@ -9,3 +9,4 @@
   - Machine Learning
   - Deep Learning
   - Real Application
+  - Kaggle Competition
