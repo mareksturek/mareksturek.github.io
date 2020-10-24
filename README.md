@@ -5,9 +5,26 @@
 - My GitHub Portfolio
 
   - Programming Basics
+  
   - Financial Analysis
+  
   - Machine Learning
+  
   - Deep Learning
+  
   - Real Application
+  
   - Various Projects
+  
   - Kaggle Competition
+  
+
+- References
+
+    - Twitter Account
+    
+    - Linkedin Account
+    
+    - Personal Website
+    
+    - Data Science Portfolio
