@@ -9,4 +9,5 @@
   - Machine Learning
   - Deep Learning
   - Real Application
+  - Various Projects
   - Kaggle Competition
