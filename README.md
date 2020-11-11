@@ -4,19 +4,19 @@
 
 - My GitHub Portfolio
 
-  - Programming Basics
-  - Financial Analysis
-  - Machine Learning
-  - Deep Learning
-  - Real Application
-  - Various Projects
-  - Kaggle Competition
+  - [Programming Basics](https://github.com/mareksturek/programming-basics)
+  - [Financial Analysis](https://github.com/mareksturek/financial-analysis)
+  - [Machine Learning](https://github.com/mareksturek/machine-learning)
+  - [Deep Learning](https://github.com/mareksturek/deep-learning)
+  - [Real Application](https://github.com/mareksturek/real-application)
+  - [Various Projects](https://github.com/mareksturek/various-projects)
+  - [Kaggle Competition](https://github.com/mareksturek/kaggle-competition)
 
 
 - References
 
-   - Twitter Account
-   - Linkedin Account
-   - Personal Website
-   - Data Science Portfolio
+   - [Twitter Account](https://twitter.com/mareksturek)
+   - [Linkedin Account](https://www.linkedin.com/in/mareksturek/)
+   - [Personal Website](https://www.mareksturek.com/)
+   - [Data Science Portfolio](https://github.com/mareksturek/mareksturek.github.io/blob/master/mydsportfolio.pdf)
     
