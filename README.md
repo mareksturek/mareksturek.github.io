@@ -8,7 +8,7 @@
   - [Financial Analysis](https://github.com/mareksturek/financial-analysis)
   - [Machine Learning](https://github.com/mareksturek/machine-learning)
   - [Deep Learning](https://github.com/mareksturek/deep-learning)
-  - [Real Applications](https://github.com/mareksturek/real-application)
+  - [Real Application](https://github.com/mareksturek/real-application)
   - [Various Projects](https://github.com/mareksturek/various-projects)
   - [Kaggle Competition](https://github.com/mareksturek/kaggle-competition)
 
