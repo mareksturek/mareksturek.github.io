@@ -5,13 +5,12 @@
 - My GitHub Portfolio
 
   - [Programming Basics](https://github.com/mareksturek/programming-basics)
-  - [Financial Analysis](https://github.com/mareksturek/financial-analysis)
+  - [Cheat Sheets](https://github.com/mareksturek/cheat-sheets)
   - [Machine Learning](https://github.com/mareksturek/machine-learning)
   - [Deep Learning](https://github.com/mareksturek/deep-learning)
   - [Real Application](https://github.com/mareksturek/real-application)
   - [Various Projects](https://github.com/mareksturek/various-projects)
-  - [Kaggle Competition](https://github.com/mareksturek/kaggle-competition)
-
+  - [Data Visualization](https://github.com/mareksturek/data-visualization)
 
 - References
 
