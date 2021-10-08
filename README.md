@@ -14,6 +14,7 @@
 
 - References
 
+   - [Lectures](https://github.com/mareksturek/lectures-related)
    - [Twitter Account](https://twitter.com/mareksturek)
    - [Linkedin Account](https://www.linkedin.com/in/mareksturek/)
    - [Personal Website](https://www.mareksturek.com/)
