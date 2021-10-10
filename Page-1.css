@@ -25,26 +25,26 @@
 .u-section-1 .u-image-2 {
   width: 36px;
   height: 36px;
-  margin: -4px 343px 0 auto;
+  margin: -16px 370px 0 auto;
 }
 
 .u-section-1 .u-btn-1 {
   border-style: none;
   font-size: 1rem;
-  margin: 8px auto 0 -52px;
+  margin: 20px auto 0 -52px;
   padding: 0;
 }
 
 .u-section-1 .u-shape-1 {
   width: 16px;
   height: 16px;
-  margin: -22px auto 0 -53px;
+  margin: -18px auto 0 -53px;
 }
 
 .u-section-1 .u-btn-2 {
   border-style: none;
   font-size: 1rem;
-  margin: 56px auto 0 -52px;
+  margin: 52px auto 0 -52px;
   padding: 0;
 }
 
@@ -289,7 +289,6 @@
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: 52px;
     margin-left: -19px;
   }
 
@@ -391,12 +390,11 @@
   }
 
   .u-section-1 .u-shape-1 {
-    margin-top: -22px;
+    margin-top: -18px;
     margin-left: -11px;
   }
 
   .u-section-1 .u-btn-2 {
-    margin-top: 56px;
     margin-left: -11px;
   }
 
